@@ -1,0 +1,3 @@
+('Number of the employees: ', 4)
+('the goodies price selected for distribution are', [9999, 11101, 22349, 229900])
+('the difference between the chosen goodie with highest price and the lowest price is', 3121)
